@@ -11,9 +11,8 @@ import {
   PanResponder,
   View,
   Easing,
-  ViewPropTypes
 } from "react-native";
-
+import {ViewPropTypes} from 'deprecated-react-native-prop-types'
 import PropTypes from 'prop-types';
 
 var TRACK_SIZE = 4;
