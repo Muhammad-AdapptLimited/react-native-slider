@@ -14,7 +14,7 @@ import {
 } from "react-native";
 import {ViewPropTypes} from 'deprecated-react-native-prop-types'
 import PropTypes from 'prop-types';
-
+//forked//
 var TRACK_SIZE = 4;
 var THUMB_SIZE = 20;
 
